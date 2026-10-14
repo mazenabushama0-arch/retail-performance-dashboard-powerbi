@@ -1,6 +1,6 @@
 # Retail Performance Dashboard (Power BI)
 
-> 🌐 Part of my data analytics portfolio: [YOUR-PORTFOLIO-URL](https://YOUR-PORTFOLIO-URL/projects/retail-performance-dashboard) · 👤 [More projects on my GitHub](https://github.com/mazenabushama0-arch)
+> 🌐 Part of my data analytics portfolio: [YOUR-PORTFOLIO-URL](https://mazenabushama0-arch.github.io/Portfolio/) · 👤 [More projects on my GitHub](https://github.com/mazenabushama0-arch)
 
 A multi-page Power BI report that brings retail **sales, inventory, forecasting, store comparison, financials, and purchase orders** into one navigable dashboard, with a home page and button navigation between pages.
 
